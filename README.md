@@ -1,5 +1,9 @@
 # Admin-Page
 
+Live Preview
+https://remonjames.github.io/Admin-Page/
+
+
 A full dashboard design project as part of the odin project curriculum.
 
 
